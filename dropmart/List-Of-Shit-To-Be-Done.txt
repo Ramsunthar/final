@@ -1,0 +1,22 @@
+search bar
+x - links to all pages
+x - access control to all pages + header
+x - Make signup page better
+fill dummy data with actual Data
+Logo
+Slider
+Advertisement
+Vendors
+Footer
+x - Fix price Slider
+x - Welcome name in header
+x- margin to all pages
+x - remove test array in cart page
+x - constatnt button colors
+x - header icon to cartpage
+x - mobile friendly
+x- contact us page
+x - Put in server
+
+x - REport Generation
+Put in electron
